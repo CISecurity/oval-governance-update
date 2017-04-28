@@ -1,6 +1,6 @@
-#OVAL Specification Moderation
-##A Community-Driven Approach
-###Goals
+# OVAL Specification Moderation
+## A Community-Driven Approach
+### Goals
 * Provide a central place of record for versions of the OVAL specification
 * Provide mechanisms for the OVAL community to revise and augment the specification in order to maintain current capabilities and expand capabilities within current use cases
 * Provide forums for the OVAL community to discuss OVAL-related topics
@@ -13,10 +13,10 @@
    * resulting work is non-patentable
    * work that is not contributed is not owned by someone else
 
-###Open Questions
+### Open Questions
 * General: We’re open to any and all feedback! Is this even the right approach? If not, be blunt! Let’s figure out something that makes sense to everyone.
 
-###Processes & Organization Notes
+### Processes & Organization Notes
 * Administration Roles
    * Project Sponsor: CIS
       * Responsibilities
