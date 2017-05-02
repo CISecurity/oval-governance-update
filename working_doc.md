@@ -1,14 +1,14 @@
 # OVAL Specification Moderation
 ## A Community-Driven Approach
 ### Goals
-* Provide a central place of record for versions of the OVAL specification
-* Provide mechanisms for the OVAL community to revise and augment the specification in order to maintain current capabilities and expand capabilities within current use cases
-* Provide forums for the OVAL community to discuss OVAL-related topics
-* Provide a listing of tools that support the OVAL specification
-* Coordinate the hosting of online and/or offline events
-* Be transparent and open to the public
-* Adopt policies and practices that favor: a) progress towards closing gaps between current capabilities and full realization of OVAL use cases; and b) ongoing incremental improvement over stability and completeness when there is a conflict between the former and latter.
-* Offer all content under OVAL and/or Public Domain and/or Apache license so that:
+1. Provide a central place of record for versions of the OVAL specification
+2. Provide mechanisms for the OVAL community to revise and augment the specification in order to maintain current capabilities and expand capabilities within current use cases
+3. Provide forums for the OVAL community to discuss OVAL-related topics
+4. Provide a listing of tools that support the OVAL specification
+5. Coordinate the hosting of online and/or offline events
+6. Be transparent and open to the public
+7. Adopt policies and practices that favor: a) progress towards closing gaps between current capabilities and full realization of OVAL use cases; and b) ongoing incremental improvement over stability and completeness when there is a conflict between the former and latter.
+8. Offer all content under OVAL and/or Public Domain and/or Apache license so that:
    * the work can easily be used under a variety of common open-source and commercial licenses
    * resulting work is non-patentable
    * work that is not contributed is not owned by someone else
