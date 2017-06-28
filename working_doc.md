@@ -4,11 +4,18 @@
 1. Provide a central place of record for versions of the OVAL specification
 2. Provide mechanisms for the OVAL community to revise and augment the specification in order to maintain current capabilities and expand capabilities within current use cases
 3. Provide forums for the OVAL community (language developers, content producers, content users) to discuss OVAL-related topics
-4. Provide a listing of tools that support the OVAL specification
-5. Coordinate the hosting of online and/or offline events
+4. Provide a mechanism for listing tools that support the OVAL specification
 6. Be transparent and open to the public
-7. Adopt policies and practices that favor: a) progress towards closing gaps between current capabilities and full realization of OVAL use cases; and b) ongoing incremental improvement over stability and completeness when there is a conflict between the former and latter.
-8. OVAL Language specifications and schemas must be provided under licensing terms that are commercially friendly and not overly prohibitive.
+    1. Issues
+    2. Language proposals
+    3. Decisions
+    4. Governance process and execution
+    5. Board membership
+    6. Schema supervisor assignments
+    7. Coordinate the hosting of online and/or offline events
+7. Encourage contributions from the public
+8. Adopt policies and practices that allow language development speed and agility while maintaining respectable stability.
+9. OVAL Language specifications and schemas must be provided under licensing terms that are commercially friendly and not overly prohibitive.
 
 ### Open Questions
 * General: We’re open to any and all feedback! Is this even the right approach? If not, be blunt! Let’s figure out something that makes sense to everyone.
