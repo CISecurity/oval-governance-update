@@ -5,6 +5,8 @@ This entire effort is a ***work in progress***. We are starting at the higher le
 
 We are tracking a variety of issues [here](https://github.com/CISecurity/oval-governance-update/issues), and are on a weekly meeting schedule to iterate through the process, so that we can address each of these issues (many of which were the direct feedback of various Board members).
 
+We have also created a simple project to track actions that may not be specifically releated to issues [here](https://github.com/CISecurity/oval-governance-update/projects/1).
+
 # Language Development Process Goals
 1. Provide a central place of record for versions of the OVAL specification
 2. Provide mechanisms for the OVAL community to revise and augment the specification in order to maintain current capabilities and expand capabilities within current use cases
