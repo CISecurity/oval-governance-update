@@ -11,7 +11,7 @@ Anyone may create an Issue! When creating an Issue, please follow these guidelin
 - **Issue Title**: summarize the issue concisely (try for 8 words or less!)
 - **Issue Type**: mark the issue as a Defect, Enhancement or Other:
 
-  - **Defects** are Issues that describe something broken in OVAL. Defects are typically a deviation between an OVAL schema and its documentation or another violatation of the OVAL Design Principles.
+  - **Defects** are Issues that describe something broken in OVAL. Defects are typically a deviation between an OVAL schema and its documentation or another violation of the OVAL Design Principles.
   - **Enhancements** are Issues that describe an opportunity to improve OVAL (other than by fixing a Defect!). Enhancements are typically adding an attribute, test or schema that results in additional capabilities. Deprecating or removing elements would also be an Enhancement.
   - **Other**: anything else!
   
