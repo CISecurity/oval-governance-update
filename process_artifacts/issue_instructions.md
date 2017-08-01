@@ -15,12 +15,6 @@ Anyone may create an Issue! When creating an Issue, please follow these guidelin
   - **Enhancements** are Issues that describe an opportunity to improve OVAL (other than by fixing a Defect!). Enhancements are typically adding an attribute, test or schema that results in additional capabilities. Deprecating or removing elements would also be an Enhancement.
   - **Other**: anything else!
   
-- **Issue Priority**: mark the Issue as High, Normal or Low priority:
-
-  - **High Priority**: Issues that have a frequent and significant impact on OVAL users
-  - **Normal Priority**: Issues that have frequent or significant impact on OVAL users or have a demonstrable negative impact on OVAL adoption
-  - **Low Priority**: All other Issues
-  
 - **Issue Priority Explanation**: explain your Priority selection.
 - **Issue Subject**: list any OVAL schema(s) that would need to be revised or created in order to resolve the Issue. If the Issue affects process documentation, scripts, etc. please list them here.
 - **Issue Author**: please introduce yourself and describe how you are affected by the Issue. E.g. are you a tool vendor trying to complete an implementation, an end-user unable to complete an accurate scan, a content author unable to write a complete definition, or? This helps the community discuss the Issue with you.
