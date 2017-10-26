@@ -26,11 +26,11 @@ We have also created a simple project to track actions that may not be specifica
 
 # Abstract Process Framework
 
-This is our ***work-in-progress*** process framework, which describes various roles and the gist of the overall process, with most of the details being contained in various [process artifacts](https://github.com/CISecurity/oval-governance-update/process_artifacts). 
+This is our ***work-in-progress*** process framework, which describes various roles and the gist of the overall process, with most of the details being contained in various [process artifacts](https://github.com/CISecurity/oval-governance-update/process_artifacts).
 
-![Process Diagram](https://raw.githubusercontent.com/CISecurity/oval-governance-update/master/graphics/png/language_mod_process.png)
+![Process Diagram](https://github.com/CISecurity/oval-governance-update/blob/master/graphics/png/language-development-0.5.png)
 
-A note about interpreting the diagram (which is also available in [PDF form](https://github.com/CISecurity/oval-governance-update/raw/master/graphics/pdf/language_mod_process.pdf)). Process steps (rounded rectangular shapes) with dotted-line boundaries indicate areas that will likely require a sub-process of its own. For example, the box labeled with "Release" is certainly more complicated than simply releasing, and will likely have it's own process diagram to aid in explaining how the ultimate release process goes.
+A note about interpreting the diagram (which is also available in [PDF form](https://github.com/CISecurity/oval-governance-update/blob/master/graphics/pdf/language-development-0.5.pdf)). Process steps (rounded rectangular shapes) with dotted-line boundaries indicate areas that will likely require a sub-process of its own. For example, the box labeled with "Release" is certainly more complicated than simply releasing, and will likely have it's own process diagram to aid in explaining how the ultimate release process goes.
 
 The pink-ish document shapes (with the bent upper right corners) represent artifacts relied up on by the associated process step. A fille in arrow in the upper left of one of these symbols would represent an output artifact, whereas a "clear" (white) arrow would represent an input artifact. For example, the "Release" step of the process presently requires two process artifacts: Proposal Accepance Guidelines, and Release Instructions.
 
