@@ -2,7 +2,7 @@
 
 # Qualifying Implementations
 
-This document defines the requirements for Qualifying Implmentations that are required by the OVAL Release Process.
+This document defines the requirements for Qualifying Implmentations that are required by the [OVAL Release Instructions](https://github.com/CISecurity/oval-governance-update/blob/master/process_artifacts/release_instructions.md).
 
 ### Each Qualifying Implementation MUST be Independent
 
