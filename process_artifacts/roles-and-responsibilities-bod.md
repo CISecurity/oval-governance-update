@@ -1,5 +1,5 @@
 # OVAL Leadership Board Roles and Responsibilities
-This document characterizes the roles and responsiblities of the OVAL Leadership Board (the "Board" or "Leadership Board"). The Leadership Board is an instrumental body of willing and qualified organizations who are expected to help steer the overarching direction of the OVAL Language.
+This document characterizes the roles and responsibilities of the OVAL Leadership Board (the "Board" or "Leadership Board"). The Leadership Board is an instrumental body of willing and qualified organizations who are expected to help steer the overarching direction of the OVAL Language.
 
 Requirements language in this document are defined in [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt).
 
@@ -27,6 +27,6 @@ As proposals to the language are received in the language development process, w
 
 * Review Proposed Update: All parties review the proposed update to the design principles
 * Suggest Change: All parties are able to suggest changes to the proposed update
-* Create Consensus Call: The Leadership board alone creates the consensus call (details TBD)
-* Address Issue: As issues are raised during the consensus call, the Leadership Board resolves the issue
-* Update Design Principles: The Leadership board authorizes the updated to the design principles (another party, i.e. the sponsor, may actually update the design princples artifact)
+* Create Consensus Call: The leadership board MUST formally call for consensus on the design principle update proposal
+* Address Issue: When issues are raised during a formal consensus call, the Leadership Board MUST acknowledge and take appropriate action for the raised issue
+* Update Design Principles: The Leadership board MUST authorize updates to the design principles (another party, i.e. the sponsor, may actually update the design principles artifact)
