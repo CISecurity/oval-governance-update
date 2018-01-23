@@ -48,13 +48,14 @@ Our intent is to store everything about OVAL in a GitHub repository, similar to 
 
 There are three major roles to be played in this process, beyond the community at large. These are:
 
-* [Leadership Board](https://github.com/CISecurity/oval-governance-update/blob/master/process_artifacts/roles-and-responsibilities-bod.md): Steers the OVAL mission and use cases, assists (when needed) with consensus calls, and is instrumental in updating design principles.
+* [Leadership Board](https://github.com/CISecurity/oval-governance-update/blob/master/process_artifacts/roles-and-responsibilities-bod.md): Steers the OVAL mission and use cases, assists (when needed) with consensus calls, is instrumental in updating design principles, and is responsible for selecting the Official Release(s).
 * [Sponsor](https://github.com/CISecurity/oval-governance-update/blob/master/process_artifacts/roles-and-responsibilities-sponsor.md): Mainly handles logistics for managing OVAL resources, managing area supervisor appointments, operating the OVAL Repository, and so on.
 * [Area Supervisors](https://github.com/CISecurity/oval-governance-update/blob/master/process_artifacts/roles-and-responsibilities-area-supervisor.md): Responsible for specific areas concerned with OVAL, as segmented [here](https://github.com/CISecurity/oval-governance-update/blob/master/process_artifacts/areas-of-responsibility.md).
+* Community At Large: Responsible for maintaining OVAL and these governance processes by creating issues, reviewing issues, creating change proposals, collaborating on change proposals, reviewing change proposals and generally contributing to this consensus-driven process.
 
 ### Process Details
 #### Create GitHub Issue
-Anyone can create a GitHub Issue for the OVAL Language. Those submitting an issue should follow the [issue instructions](https://github.com/CISecurity/oval-governance-update/blob/master/process_artifacts/issue_instructions.md). After an issue is submitted, there's at least a seven day comment period, during which time the issue may be resolved. If the issue is not resolved, then someone (the issue submitter or a third party) may submit a first proposal to resolve the issue by modifying the OVAL language.
+Anyone can create a GitHub Issue describing a problem with or opportunity to improve the OVAL Language. Those submitting an issue should follow the [issue instructions](https://github.com/CISecurity/oval-governance-update/blob/master/process_artifacts/issue_instructions.md). After an issue is submitted, there's at least a seven day comment period, during which time the issue may be resolved. If the issue is not resolved, then someone (the issue submitter or a third party) may submit a first proposal to resolve the issue by modifying the OVAL language.
 
 #### First Proposal
 Creating the first proposal in response to an unresolved issue requires knowledge of the following process artifacts:
@@ -85,7 +86,7 @@ Updating design principles is not the only place consensus calls are used. In ge
 See our [consensus guidelines](https://github.com/CISecurity/oval-governance-update/blob/master/process_artifacts/proposal_consensus_guidelines.md) for specific details on judging consensus.
 
 #### Release and Logistical Support
-A proposal that gains consensus will then move into to the release subprocess, which follows the [proposal acceptance guidelines](https://github.com/CISecurity/oval-governance-update/blob/master/process_artifacts/proposal_acceptance_guidelines.md)  and relies upon the [release instructions](https://github.com/CISecurity/oval-governance-update/blob/master/process_artifacts/release_instructions.md). Depending on the nature of the change and the implementation support enjoyed by the proposal, a release will go into one of four release streams: Extensions, development, stable, or official (these streams are described [here](https://github.com/CISecurity/oval-governance-update/blob/master/process_artifacts/release_instructions.md)).
+A proposal that gains consensus will then move into to the release subprocess, which follows the [proposal acceptance guidelines](https://github.com/CISecurity/oval-governance-update/blob/master/process_artifacts/proposal_acceptance_guidelines.md)  and relies upon the [release instructions](https://github.com/CISecurity/oval-governance-update/blob/master/process_artifacts/release_instructions.md). These accepted proposals are released into the Development release stream. Once they have sufficient implementation support, they are moved to the Stable release stream on the next release date. Proposals that are not accepted may be released to the Extensions release stream. See the [release instructions](https://github.com/CISecurity/oval-governance-update/blob/master/process_artifacts/release_instructions.md) for additional detail.
 
 #### Release Announcement
 When an update to any stream is released, the Sponsor will be responsible for announcing the release according to the [announcement guidelines](https://github.com/CISecurity/oval-governance-update/blob/master/process_artifacts/release-announcement-checklist.md).
