@@ -7,7 +7,7 @@ We are tracking a variety of issues [here](https://github.com/CISecurity/oval-go
 
 We have also created a simple project to track actions that may not be specifically releated to issues [here](https://github.com/CISecurity/oval-governance-update/projects/1).
 
-# Language Development Process Goals
+# Project Goals
 1. Provide a central place of record for versions of the OVAL specification
 2. Provide mechanisms for the OVAL community to revise and augment the specification in order to maintain current capabilities and expand capabilities within current use cases
 3. Provide forums for the OVAL community (language developers, content producers, content users) to discuss OVAL-related topics
@@ -19,10 +19,10 @@ We have also created a simple project to track actions that may not be specifica
     4. Governance process and execution
     5. Board membership
     6. Schema supervisor assignments
-    7. Coordinate the hosting of online and/or offline events
-7. Encourage contributions from the public
-8. Adopt policies and practices that allow language development speed and agility while maintaining respectable stability.
-9. OVAL Language specifications and schemas must be provided under licensing terms that are commercially friendly and not overly prohibitive.
+8. Coordinate the hosting of online and/or offline events
+9. Encourage contributions from the public
+10. Adopt policies and practices that allow language development speed and agility while maintaining respectable stability.
+11. OVAL Language specifications and schemas must be provided under licensing terms that are commercially friendly and not overly prohibitive.
 
 # Abstract Process Framework
 
